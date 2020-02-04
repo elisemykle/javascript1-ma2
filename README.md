@@ -1,2 +1,2 @@
-# javascript1-ma2
-MA02 for Javascript 1
+# Yeoman
+MA02 for Workshop2
